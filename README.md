@@ -1,8 +1,9 @@
 # BuggyTheApp
-<h3> Please always check if you have the latest update of the code. It will be updated frequently depending on the students feedback</h3>
+
 It is a bug-full app that build with one goal in mind, coding in the worst way. 
 to do that we implemented dummy functions and added the needful files to trigger the vulnerabilities we wanted.
 Here is a list of the files in the app:<br>
+
 1. Blistner.java //listener class to display broadcasted messages. <br>
 2. broadcaster.java // Broadcasting class sends messages to this app each 3 seconds.<br>
 3. CPclass.java // content provider class provide access to the users info.<br>
